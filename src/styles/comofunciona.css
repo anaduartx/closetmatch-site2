@@ -1,9 +1,13 @@
-/* .form {
-    background-color: #DF7C81;
-} */
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+   
+}
+
 
 .titulo {
-    font-family: Poppins;
+
     color: white;
     padding-top: 5rem;
     margin-left: 8rem;

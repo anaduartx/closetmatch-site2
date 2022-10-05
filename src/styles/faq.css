@@ -6,6 +6,10 @@ h1 {
     margin: 2rem;
 } */
 
+*{
+    font-family: 'Poppins', sans-serif;
+   
+  }
 .formulário {
     background-color: white;
 }
