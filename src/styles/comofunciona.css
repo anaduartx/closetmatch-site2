@@ -1,0 +1,48 @@
+/* .form {
+    background-color: #DF7C81;
+} */
+
+.titulo {
+    font-family: Poppins;
+    color: white;
+    padding-top: 5rem;
+    margin-left: 8rem;
+    margin-bottom: 5rem;
+    align-content: start;
+    font-size: 7rem;
+}
+
+.caixa {
+    display: flex;
+    justify-content: center;
+    /* position: relative;
+    float: right; */
+    width: 400px;
+    height: 250px;
+    margin-left: 12rem;
+    border: 1px;
+    border-radius: 1rem;
+    color: #DF7C81;
+    background-color: white;
+    border-style: groove;
+    border-color: white;
+}
+
+.caixa2 {
+    margin-left: 42rem;
+    color: #DF7C81;
+    background-color: white;
+    width: 400px;
+    height: 250px;
+}
+
+.numero {
+    font-size: 3rem;
+    margin-top: 1rem;
+}
+
+.texto {
+    padding: 2rem;
+    font-size: 1.2rem;
+    font-family: Poppins;
+}

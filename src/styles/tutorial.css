@@ -1,0 +1,37 @@
+.tutorial {
+    /* position: relative;
+    float: right; */
+    /* align-items: center; */
+    justify-content: center;
+    display: flex;
+    margin-top: 15rem;
+    margin-right: 8rem;
+    /* height: 90vh; */
+
+}
+
+.tutorial2 {
+    /* position: relative;
+    float: right; */
+    /* align-items: center; */
+    justify-content: center;
+    display: flex;
+    margin-top: 1rem;
+    margin-right: 20rem;
+    /* height: 90vh; */
+
+}
+
+.cliquetutorial {
+    color: white;
+}
+
+.botao {
+    width: 100px;
+    height: 50px;
+    background-color: #F8B042;
+    border-radius: 1rem;
+    color: white;
+    border-color: white;
+    margin-left: 13rem;
+}

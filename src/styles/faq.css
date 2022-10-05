@@ -1,0 +1,23 @@
+/* p {
+    margin: 2rem;
+}
+
+h1 {
+    margin: 2rem;
+} */
+
+.formulário {
+    background-color: white;
+}
+
+.faq {
+    font-family: Poppins;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.espaco {
+    margin: 8rem;
+}
