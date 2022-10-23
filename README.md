@@ -1,11 +1,10 @@
 # 👚 closet match - landing page
 
-<% if (licenseName) { -%> ![License: <%= licenseName %>](https://img.shields.io/<%= isGithubRepos ? github/license/${authorGithubUsername}/${projectName} : badge/License-${licenseName}-yellow.svg %>) <% } -%>
 
 # descrição
 Landing page institucional para a Closet Match. Inclui serviços oferecidos, tutoriais e informacoes sobre o aplicativo.
 
-#  autores
+# autores
 - Allan von Ivanov
 - Ana Carolina Duarte
 - Diego Mecco
@@ -16,14 +15,14 @@ Landing page institucional para a Closet Match. Inclui serviços oferecidos, tut
 - Victoria Caroline Epifanio
 
 
-#  tecnologias 
+# tecnologias 
 - reactJS
 - HTML5
 - CSS3
 - javascript
 
-#  licença
-<% } -%> This project is <%= licenseName %> licensed. <% } -%>
+# licença
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 # prints de tela
