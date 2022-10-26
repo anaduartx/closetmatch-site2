@@ -2,7 +2,7 @@
 
 
 # descrição
-Landing page institucional para a Closet Match. Inclui serviços oferecidos, tutoriais e informacoes sobre o aplicativo.
+Landing page institucional para a Closet Match. Inclui serviços oferecidos, tutoriais e informações sobre o aplicativo.
 
 # autores
 - Allan von Ivanov
