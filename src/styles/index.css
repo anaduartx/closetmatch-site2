@@ -1,9 +1,9 @@
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
-  background: #DF7C81;
-  /*background: -webkit-linear-gradient(to right, #B55B60, #DF7C81, );
-  background: linear-gradient(to right, #DF7C81, #B55B60, black); */
+/*   background: #DF7C81; */
+  background: -webkit-linear-gradient(to right, #B55B60, #DF7C81, );
+  background: linear-gradient(to right, #DF7C81, #B55B60, black); 
 
 
 }
